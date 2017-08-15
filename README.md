@@ -1,1 +1,1 @@
-# This is homework task 7
+# This is homework for task 7
